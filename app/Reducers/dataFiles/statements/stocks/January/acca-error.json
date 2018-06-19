@@ -1,0 +1,35 @@
+{
+  "LogFile": "As at 29 March 2018",
+  "logs": [
+    {
+      "link": "/usersettings",
+      "id":"wej456foirgt",
+      "message": {
+        "type": "setup",
+        "err": {
+          "state": "done",
+          "note": "",
+          "msg": " Error: there is no opening stock "
+        }
+      },
+      "state": "success",
+      "date": "29 March 2018",
+      "time": "1:27:55"
+    },
+    {
+      "link": "/dashboard",
+      "id":"wej4544009o689irgt",
+      "message": {
+        "type": "setup",
+        "err": {
+          "state": "error",
+          "note": "",
+          "msg": " Error: there is no opening stock "
+        }
+      },
+      "state": "Error",
+      "date": "2 March 2018",
+      "time": "1:27:55"
+    }
+  ]
+}

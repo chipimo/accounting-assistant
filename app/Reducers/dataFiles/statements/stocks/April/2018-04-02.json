@@ -1,0 +1,11 @@
+{
+  "name": "statements of accounts",
+  "statements": {
+    "stocks": {
+      "items": [],
+      "ClosingStock": {},
+      "TotalOpening": 90,
+      "TotalClosing": 0
+    }
+  }
+}

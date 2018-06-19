@@ -1,0 +1,55 @@
+{
+  "name": "statements of accounts",
+  "statements": {
+    "Stock": {
+      "January": {
+        "stocks": {
+          "items": [
+            {
+              "title": "boom big",
+              "id": "b0234",
+              "barcode": "000949588678822",
+              "img": "",
+              "price": "500",
+              "opening": "150",
+              "closing": "250",
+              "stockin": "150",
+              "stockout": "50",
+              "date": "01 March 2017"
+            },
+            {
+              "title": "SUGER",
+              "id": "b03334",
+              "barcode": "000949588678822",
+              "img": "",
+              "price": "500",
+              "opening": "150",
+              "closing": "250",
+              "stockin": "150",
+              "stockout": "50",
+              "date": "01 March 2017"
+            }
+          ],
+          "ClosingStock": {},
+          "TotalOpening": 90,
+          "TotalClosing": 20
+        }
+      },
+      "February": {},
+      "March": {},
+      "April": {},
+      "May": {},
+      "June": {},
+      "July": {},
+      "August": {},
+      "September": {},
+      "October": {},
+      "November": {},
+      "December": {}
+    },
+    "Sales": {},
+    "Purchases": {},
+    "Debtors": {},
+    "Creditors": {}
+  }
+}

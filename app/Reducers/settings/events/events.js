@@ -1,0 +1,8 @@
+module.exports = {
+  UPDATE: "UPDATE",
+  SET: "SET",
+  STATE: "STATE",
+  AUTO_CLOSE: "AUTO_CLOSE",
+  THEME:"THEME",
+  SHOW_ON_START: "SHOW_ON_START"
+};

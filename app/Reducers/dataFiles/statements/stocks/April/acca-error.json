@@ -1,0 +1,20 @@
+{
+  "LogFile": "As at 01 April 2018",
+  "logs": [
+    {
+      "link": "/stockContol",
+      "id":"wej456fo21jxyhfirgt",
+      "message": {
+        "type": "setup",
+        "err": {
+          "state": "error",
+          "note": "",
+          "msg": " Error: there is no opening stock "
+        }
+      },
+      "actions": "link",
+      "date": "01 April 2018",
+      "time": "11:53:54"
+    }
+  ]
+}
